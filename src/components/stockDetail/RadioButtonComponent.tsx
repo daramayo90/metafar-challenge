@@ -37,8 +37,8 @@ const RadioButtonGroup = styled.div`
    display: flex;
    align-items: center;
    justify-content: flex-start;
-   width: 95%;
-   margin: 2rem auto 1rem;
+   width: 100%;
+   margin: 2rem 0 1rem;
 
    label {
       margin-right: 2rem;
